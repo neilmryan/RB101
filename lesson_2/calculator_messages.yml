@@ -1,0 +1,8 @@
+
+welcome: "Welcome to Calculator! Enter your name:"
+prompt1: "What's the first number?"
+prompt2: "What's the second number?"
+prompt3: "Do you want to perform another calculation? (Y to calculate again)"
+goodbye: "Goodbye!"
+
+# ... rest of file omitted for brevity
